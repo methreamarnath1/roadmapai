@@ -72,7 +72,7 @@ function App() {
     - timeframe: estimated time for this step
     - skills: array of key skills to master
     
-    Make it realistic and actionable within their timeframe. Ensure all resource URLs are real and accessible.`;
+    Make it realistic and actionable within their timeframe. Ensure all resource URLs are real and  accessible.`;
   };
 
   const saveRoadmap = () => {
